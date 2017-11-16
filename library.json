@@ -1,0 +1,17 @@
+{
+    "name": "WidgetSound",
+    "version": "1.0.0",
+    "keywords": "Widget,Sound",
+    "description": "声音检测应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetSound.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
